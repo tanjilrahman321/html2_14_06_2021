@@ -1,0 +1,19 @@
+.red{
+	color: red;
+}
+
+.font_size{
+	font-size: 20px;
+}
+
+.background_color{
+	background-color: yellow;
+}
+
+.border{
+	border: 2px dotted blue;
+}
+
+body{
+	background: lightgray;
+}
